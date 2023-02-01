@@ -72,7 +72,7 @@ Game Objects
  -Instantly inflicts 10 damage to Zombie when hit by Alien.
 
 
-4. Rock ®                  
+4. Rock (r)                  
  - Reveals randomised game objects when encounter by the alien
 
 
