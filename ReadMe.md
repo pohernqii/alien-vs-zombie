@@ -13,8 +13,6 @@ This is the [Video Demo](https://youtu.be/96-Bz1h0nlc) of the game.
 
 
 
-
-
 ## Compilation Instructions
 
 
@@ -63,19 +61,19 @@ Game Objects
 
 
 1. Arrow (^  v  <  >)    
- -changes the direction of movement of alien
+ -Changes the direction of movement of alien
 
 
 2. Health (h)               
- -
+ -Adds 20 life to alien.
 
 
 3. Pod (p)               
- -
+ -Instantly inflicts 10 damage to Zombie when hit by Alien.
 
 
 4. Rock ®                  
- - reveals randomised game objects when encounter by the alien
+ - Reveals randomised game objects when encounter by the alien
 
 
 5. Empty 
