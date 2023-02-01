@@ -39,7 +39,8 @@ This is the [Video Demo](https://youtu.be/96-Bz1h0nlc) of the game.
    part1.exe
 ```
 
-
+Or alternatively, 
+use visual studio code to debug the file.
 
 
 ## User Manual
