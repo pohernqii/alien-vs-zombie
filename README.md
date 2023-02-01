@@ -35,8 +35,7 @@ This is the [Video Demo](https://youtu.be/96-Bz1h0nlc) of the game.
    part1.exe
 ```
 
-Or alternatively, 
-use visual studio code to debug the file.
+   Or alternatively, use visual studio code to debug the file.
 
 
 ## User Manual
@@ -44,7 +43,6 @@ Alien vs Zombie is a turn-based combat game in which the player controls Alien t
 
 
 ### How to Play
-
 
 For every round of the game, the player will have the option to input the number of rows, columns and number of zombies for the game board.  After the input has been set by the user, the game will display the game board based on the inputs set by the user. For example, if the user specifies the number of rows to be 3, number of columns to be 15 and number of zombies to be 2, the game will then generate the game board containing 3 rows, 15 columns and 2 zombies. After the board is generated, you will be able to see a command for the user to enter the input. The input entered by the user can control the alien by specifying the directions for the alien to move. Here are the lists of commands for the user:
 
