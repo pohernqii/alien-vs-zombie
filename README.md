@@ -1,9 +1,5 @@
 # Alien vs. Zombie
 
-
-Please introduce the game here.
-
-
 Alien vs Zombie is a Puzzle and Strategy game. Players can customize the row and columns of the board and the number of zombie in the board. Players must destroy the zombies by cleverly manoeuvring the aliens on a path using strategy. To win, you must kill every zombie on the board. Since there is just one attack per round, you can prevent dying by defeating the zombie down as quickly as possible. The object in the board can help u in defeating the zombie, you will succeed in the game, if you make good use of the board's elements.
 [![Screenshot of the game](https://imgur.com/a/48M7d1N)](https://imgur.com/a/48M7d1N)
 
