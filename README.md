@@ -21,17 +21,20 @@ This is the [Video Demo](https://youtu.be/96-Bz1h0nlc) of the game.
 2. Head over to the downloads folder, right click on the folder and click extract all. Then click extract.
 
 
-3. Once the file is extracted, open command prompt to change the current directory and enter 
+3. Once the file is extracted, open command prompt to change the current directory by entering 
 
 ```
    cd Downloads\alien-vs-zombie-master\alien-vs-zombie-master 
 ```
 ```
-4. Enter g++ -o part1.exe part1.cpp to generate an executable file.
+4. To generate an executable file. Enter 
 ```
-
-5. Run the file by entering part1.exe that you just created.
-
+   g++ -o part1.exe part1.cpp
+```   
+5. Run the file that you just created by entering
+```
+part1.exe
+```
 
 
 
