@@ -43,7 +43,7 @@ use visual studio code to debug the file.
 Alien vs Zombie is a turn-based combat game in which the player controls Alien to defeat a group of Zombies. 
 
 
-How to Play
+### How to Play
 
 
 For every round of the game, the player will have the option to input the number of rows, columns and number of zombies for the game board.  After the input has been set by the user, the game will display the game board based on the inputs set by the user. For example, if the user specifies the number of rows to be 3, number of columns to be 15 and number of zombies to be 2, the game will then generate the game board containing 3 rows, 15 columns and 2 zombies. After the board is generated, you will be able to see a command for the user to enter the input. The input entered by the user can control the alien by specifying the directions for the alien to move. Here are the lists of commands for the user:
@@ -61,7 +61,7 @@ Lists of Commands:
 
 
 
-Alien Movement
+### Alien Movement
 
 
 Once users enters the command, Alien moves in the game board according to the command. Alien will continue to move in the same direction and will only stop once it hits the border of the game board, or when it hits the rock object.  When alien is moving, it leaves a dotted trail indicating the path that has been passed by the alien. Once it stops, the dotted trail will reset to random game objects. If the alien has encountered an arrow, it will change the direction of its movement. For example, suppose that the alien has encountered an up arrow. The up arrow will change its direction of movement of the alien to an upward direction.  Here are the descriptions of game objects available in the game board:
@@ -69,7 +69,7 @@ Once users enters the command, Alien moves in the game board according to the co
 
 
 
-Game Objects
+### Game Objects
 
 
 1. Arrow (^  v  <  >)    
