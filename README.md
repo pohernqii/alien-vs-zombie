@@ -60,7 +60,7 @@ Lists of Commands:
 2. d                          - Alien moves down
 3. l                           - Alien moves left
 4. r                         - Alien moves right
-5. Help                          - List the available commands for the user
+5. help                          - List the available commands for the user
 
 
 
