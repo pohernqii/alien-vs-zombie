@@ -14,24 +14,24 @@ This is the [Video Demo](https://youtu.be/96-Bz1h0nlc) of the game.
 
 
 ## Compilation Instructions
-```
+
 1. Download the whole repository (alien-vs-zombie) as a zip file.
-```
-```
+
+
 2. Head over to the downloads folder, right click on the folder and click extract all. Then click extract.
-```
-```
+
+
 3. Once the file is extracted, open command prompt and enter 
-```
+
 ```
    cd Downloads\alien-vs-zombie-master\alien-vs-zombie-master to change the current directory.
 ```
 ```
 4. Enter g++ -o part1.exe part1.cpp to generate an executable file.
 ```
-```
+
 5. Run the file by entering part1.exe that you just created.
-```
+
 
 
 
