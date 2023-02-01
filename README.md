@@ -36,7 +36,7 @@ This is the [Video Demo](https://youtu.be/96-Bz1h0nlc) of the game.
 5. Run the file that you just created by entering
 
 ```
-part1.exe
+   part1.exe
 ```
 
 
