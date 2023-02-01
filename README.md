@@ -17,6 +17,7 @@ This is the [Video Demo](https://youtu.be/96-Bz1h0nlc) of the game.
 ```
 1. Download the whole repository (alien-vs-zombie) as a zip file.
 ```
+```
 2. Head over to the downloads folder, right click on the folder and click extract all. Then click extract.
 ```
 3. Once the file is extracted, open command prompt and enter 
