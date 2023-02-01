@@ -54,9 +54,6 @@ Currently the additional features have not been implemented.
 
 
 ## Problems Encountered & Solutions
-Describe the problems encountered and provide the solutions / plan for the solutions.
-
-
 1. Alien does not move after the user enters the command. 
 Solution: pass the function to set the alien using vector.
 
