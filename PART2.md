@@ -32,13 +32,14 @@ Object b which stands for "brain" is implemented. When zombies move to the locat
 
 ### Poh Ern Qi
 
-1. Randomly generate game board.
-2. *add more*
+1. Alien’s movement
+2. Game objects (arrow, rock)
+
 
 ### Tan Jia Jin
 
-1.Randomly generate game board.
-2.Game objects (trail)
+1. Randomly generate game board.
+2. Game objects (trail)
 
 
 
