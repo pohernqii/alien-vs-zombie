@@ -44,4 +44,9 @@ Object b which stands for "brain" is implemented. When zombies move to the locat
 
 ## Problems Encountered & Solutions
 
-Describe the problems encountered and provide the solutions / plan for the solutions.
+1. Alien does not move after the user enters the command. Solution: pass the function to set the alien using vector.
+
+2. Several zombies are not displayed on board based on user input. Solution: we check whether the rows and columns of zombies are empty first (in case the rows and columns generated have already been occupied by the alien). If it's empty, put the zombies in the assigned rows and columns on the board. If it is not empty, we minus the counter (i) by 1 (i-1) to make sure we get the same zombie in the next iteration and randomise the rows and columns again.
+
+
+
