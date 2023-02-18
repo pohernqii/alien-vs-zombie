@@ -51,12 +51,14 @@ For every round of the game, the player will have the option to input the number
 Lists of Commands:
 
 
-1. u                           - Alien moves up
-2. d                          - Alien moves down
-3. l                           - Alien moves left
-4. r                         - Alien moves right
-5. help                          - List the available commands for the user
-
+1. u                            - Alien moves up
+2. d                            - Alien moves down
+3. l                            - Alien moves left
+4. r                            - Alien moves right
+5. help                         - List the available commands for the user
+6. arrow                        - Change the direction of arrow in the board
+7. save                         - Save the game to a text file
+8. load                         - Load the game from a text file
 
 
 
@@ -95,7 +97,7 @@ Once users enters the command, Alien moves in the game board according to the co
 -Left by alien when it moves
 -Reset to random game objects when the alien stops and its turn ends.
 
-
+7. Brain (b)
 
 
 ## Progress Log
