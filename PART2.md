@@ -37,8 +37,9 @@ Object b which stands for "brain" is implemented. When zombies move to the locat
 
 ### Tan Jia Jin
 
-1. Zombie movement and attack behaviour.
-2. *add more*
+1.Randomly generate game board.
+2.Game objects (trail)
+
 
 
 
