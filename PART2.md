@@ -33,14 +33,18 @@ Object b which stands for "brain" is implemented. When zombies move to the locat
 ### Poh Ern Qi
 
 1. Alien’s movement
-2. Game objects (arrow, rock, pod, heath)
-4. Additional Features
+2. Zombie's movement
+3. Game objects (arrow- change direction of movement of alien, rock- stop alien's movement, health- increase alien's life)
+4. Zombie's life, attack and range 
+5. Additional Features (object brain)
 
 ### Tan Jia Jin
 
-1. Randomly generate game board.
-2. Game objects (trail)
-3. Save and load game file
+1. Default game settings
+2. Randomly generate game board.
+3. Game objects (trail- reset the trail to random game objects, pod - find nearest distance & attacks zombie,)
+4. Change the direction of arrow on the board
+5. Save and load game file
 
 
 ## Problems Encountered & Solutions
