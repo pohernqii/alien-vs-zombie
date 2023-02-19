@@ -54,13 +54,14 @@ Lists of Commands:
 
 
 1. up                            - Alien moves up
-2. down                            - Alien moves down
-3. left                            - Alien moves left
-4. right                            - Alien moves right
-5. help                         - List the available commands for the user
-6. arrow                        - Change the direction of arrow in the board
-7. save                         - Save the game to a text file
-8. load                         - Load the game from a text file
+2. down                          - Alien moves down
+3. left                          - Alien moves left
+4. right                         - Alien moves right
+5. help                          - List the available commands for the user
+6. arrow                         - Change the direction of arrow in the board
+7. save                          - Save the game to a text file
+8. load                          - Load the game from a text file
+9. quit                          - Quit the game
 
 
 
