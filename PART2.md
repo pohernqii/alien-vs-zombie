@@ -65,4 +65,6 @@ When my initial zombiecount is smaller than the load in zombiecount, I encounter
 Solution: To solve the issue, I used a pointer zombie \*z instead of the original array to store the zombie objects. By doing this, I can dynamically allocate memory for the array using new and delete when needed. This allows the array to be enlarge to avoid the Segmentation fault error. Example : zombie \*z = new zombie[newZombieCount]; After using the array, I freed the memory using: delete[] z;
 
 ### Problem 5:
+Alien's life exceed 100 throughout the game but alien's maximum life is 100. 
 
+Solution: I forgot to set the maximum life of alien to be 100. To solve this, I find the difference between alien's current life and 100, then only add its difference to its current life to prevent from exceeding 100.
