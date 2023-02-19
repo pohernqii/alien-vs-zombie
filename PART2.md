@@ -63,3 +63,6 @@ Solution: To resolve this issue, I decided to use a comma as a delimiter while s
 When my initial zombiecount is smaller than the load in zombiecount, I encountered an error: Exception has occurred. Segmentation fault.
 
 Solution: To solve the issue, I used a pointer zombie \*z instead of the original array to store the zombie objects. By doing this, I can dynamically allocate memory for the array using new and delete when needed. This allows the array to be enlarge to avoid the Segmentation fault error. Example : zombie \*z = new zombie[newZombieCount]; After using the array, I freed the memory using: delete[] z;
+
+### Problem 5:
+
