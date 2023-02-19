@@ -72,3 +72,8 @@ Solution: To solve the issue, I used a pointer zombie \*z instead of the origina
 Alien's life exceed 100 throughout the game but alien's maximum life is 100. 
 
 Solution: I did not set the maximum life of alien to be 100. To solve this, I find the difference between alien's current life and 100, then only add its difference to its current life to prevent from exceeding 100.
+
+### Problem 6:
+Unable to clone the zombies due to segmentation error when encounters object brain. 
+
+Solution: I increase the size of zombie array to  Zombie z[col * rows - 1] (minus 1 space occupied by alien) to allocate more space, as previously the size was set according to the zombie count. 
