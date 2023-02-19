@@ -29,13 +29,13 @@ This is the [Video Demo](https://youtu.be/96-Bz1h0nlc) of the game.
 4. To generate an executable file. Enter 
 
 ```
-   g++ -o part1.exe part1.cpp
+   g++ -o part2.exe part2.cpp
 ```   
 
 5. Run the file that you just created by entering
 
 ```
-   part1.exe
+   part2.exe
 ```
 
    Or alternatively, use visual studio code to debug the file.
@@ -53,10 +53,10 @@ For every round of the game, the player will have the option to input the number
 Lists of Commands:
 
 
-1. u                            - Alien moves up
-2. d                            - Alien moves down
-3. l                            - Alien moves left
-4. r                            - Alien moves right
+1. up                            - Alien moves up
+2. down                            - Alien moves down
+3. left                            - Alien moves left
+4. right                            - Alien moves right
 5. help                         - List the available commands for the user
 6. arrow                        - Change the direction of arrow in the board
 7. save                         - Save the game to a text file
@@ -76,15 +76,15 @@ Once users enters the command, Alien moves in the game board according to the co
 
 
 1. Arrow (^  v  <  >)    
- -Changes the direction of movement of alien
+ - Changes the direction of movement of alien
 
 
 2. Health (h)               
- -Adds 20 life to alien.
+ - Adds 20 life to alien.
 
 
 3. Pod (p)               
- -Instantly inflicts 10 damage to Zombie when hit by Alien.
+ - Instantly inflicts 10 damage to Zombie when hit by Alien.
 
 
 4. Rock (r)                  
@@ -92,14 +92,16 @@ Once users enters the command, Alien moves in the game board according to the co
 
 
 5. Empty 
--Empty space on the board
+- Empty space on the board
 
 
 6. Trail (.) 
--Left by alien when it moves
--Reset to random game objects when the alien stops and its turn ends.
+- Left by alien when it moves
+- Reset to random game objects when the alien stops and its turn ends.
+
 
 7. Brain (b)
+- Duplicates the zombie to a new zombie when encounter by zombie.
 
 
 ## Progress Log
