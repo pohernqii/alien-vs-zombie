@@ -67,4 +67,4 @@ Solution: To solve the issue, I used a pointer zombie \*z instead of the origina
 ### Problem 5:
 Alien's life exceed 100 throughout the game but alien's maximum life is 100. 
 
-Solution: I forgot to set the maximum life of alien to be 100. To solve this, I find the difference between alien's current life and 100, then only add its difference to its current life to prevent from exceeding 100.
+Solution: I did not set the maximum life of alien to be 100. To solve this, I find the difference between alien's current life and 100, then only add its difference to its current life to prevent from exceeding 100.
